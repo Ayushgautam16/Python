@@ -1,1 +1,1 @@
-arra
+array
