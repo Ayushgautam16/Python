@@ -1,1 +1,1 @@
-array stru
+array strut
