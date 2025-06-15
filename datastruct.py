@@ -1,1 +1,1 @@
-array s
+array st
