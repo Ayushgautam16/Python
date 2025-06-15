@@ -1,1 +1,1 @@
-array st
+array str
