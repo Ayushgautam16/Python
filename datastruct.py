@@ -1,1 +1,1 @@
-array str
+array stru
